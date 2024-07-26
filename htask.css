@@ -1,0 +1,85 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.success {
+    color: #4DBA2F;
+}
+
+.blue,
+h3,
+h5 {
+    color: #0D2B4C;
+}
+
+h4 {
+    color: #0D2B4C;
+}
+
+.standing {
+    background-color: #0D2B4C;
+}
+
+button {
+    background-color: #4DBA2F;
+    border: none;
+    border-radius: 44px;
+    padding: 10px 30px;
+}
+
+.button1 {
+    background-color: #4DBA2F;
+    padding: 4px 10px;
+    border-radius: 40px;
+    color: #FFFFFF;
+}
+
+.property {
+    background-color: #4DBA2F;
+    border: none;
+    border-radius: 44px;
+    padding: 0px;
+    margin: 10px 0px;
+}
+
+.text,
+strong {
+    color: #4DBA2F;
+}
+
+.form-control {
+    background-color: #E6E6E6;
+}
+
+.form-select {
+    background-color: #E6E6E6;
+}
+
+.last {
+    background: #4DBA2F33;
+    padding: 5% 15%;
+}
+
+.back {
+    background: #4DBA2F33;
+}
+
+.business {
+    border-radius: 30px;
+    padding: 5% 18%;
+}
+
+.back1 {
+    background: #4DBA2F14;
+}
+
+.world {
+    top: 252px;
+    left: 500px;
+    text-align: center;
+    color: #0D2B4C;
+}
